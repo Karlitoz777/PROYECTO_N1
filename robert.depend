@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1728533347 source:c:\users\c4rl0\desktop\trabajo\robert\busqueda.cpp
+	"Busqueda.h"
+
+1728533345 c:\users\c4rl0\desktop\trabajo\robert\busqueda.h
+	<vector>
+	<string>
+
+1728533437 source:c:\users\c4rl0\desktop\trabajo\robert\hash.cpp
+	"Hash.h"
+	<algorithm>
+
+1728533435 c:\users\c4rl0\desktop\trabajo\robert\hash.h
+	<vector>
+	<unordered_map>
+
+1728533352 source:c:\users\c4rl0\desktop\trabajo\robert\ordenamiento.cpp
+	"Ordenamiento.h"
+	<algorithm>
+
+1728533350 c:\users\c4rl0\desktop\trabajo\robert\ordenamiento.h
+	<vector>
+
+1728533791 source:c:\users\c4rl0\desktop\trabajo\robert\algoritmostextuales.cpp
+	"AlgoritmosTextuales.h"
+	<unordered_map>
+	<queue>
+	<algorithm>
+
+1728533431 c:\users\c4rl0\desktop\trabajo\robert\algoritmostextuales.h
+	<string>
+	<vector>
+
